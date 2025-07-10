@@ -39,7 +39,7 @@ Perform the following queries using PySpark on a local machine:
 
 
 
-## ⚙️ Setup Instructions (Local Machine)
+##  Setup Instructions (Local Machine)
 
 ### Step 1: Install Dependencies
 
