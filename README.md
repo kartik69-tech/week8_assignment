@@ -5,14 +5,14 @@ This project demonstrates a local PySpark-based data analysis pipeline on the NY
 
 ##  Files and Structure
 
-
+```
 Assignment_8/
 │
 ├── analysis_from_excel.py                   # Main PySpark script
 ├── yellow_tripdata_2020_01_synthetic.xlsx   # NYC Yellow Taxi data (January 2020)
 ├── output/                                  # Output Parquet files 
 └── README.md                                # Project documentation and instructions
-
+```
 
 ##  Objective
 
